@@ -3,12 +3,12 @@
 
 Маршруты:
 
-![Image alt](https://github.com/Sergey-SSA/ospf/blob/master/printscreen/1.png)
+![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/1.png)
 
-![Image alt](https://github.com/Sergey-SSA/ospf/blob/master/printscreen/2.png)
+![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/2.pngg)
 
-![Image alt](https://github.com/Sergey-SSA/ospf/blob/master/printscreen/3.png)
+![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/3.png)
 
 Симметричный роутинг:
 
-![Image alt](https://github.com/Sergey-SSA/ospf/blob/master/printscreen/3.png)
+![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/4.png)
