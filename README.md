@@ -5,7 +5,7 @@
 
 ![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/1.png)
 
-![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/2.pngg)
+![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/2.png)
 
 ![Image alt](https://github.com/Sergey-SSA/ospf/blob/main/printscreen/3.png)
 
